@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  elastic-agent-ocp:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-10-15T09:35:11.963345-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 64bdc2ca668bbf9c061f268164dd5a054f2890a37345c2dee03fcc6b22c869ec
+    name: elastic-agent-ocp
+    type: application
+    urls:
+    - elastic-agent-ocp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-15T09:35:11.962902-07:00"
